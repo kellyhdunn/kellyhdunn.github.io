@@ -1,5 +1,5 @@
-title: My Awesome Blog
-author: GitHub User
+title: Welcome
+author: Kelly Dunn
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/jekyll-theme-kagami"
 lang: en # site language (en/ja/zh-Hans/zh-Hant)
 color_scheme: github # this specifies color scheme for syntax highlighting
-github_username: kamikat
-twitter_username: kamikat_bot
-instagram_username: kamikat_bot
+github_username: kellyhdunn
+#twitter_username: kamikat_bot
+instagram_username: kelly_d
 
 # Build settings
 markdown: kramdown
