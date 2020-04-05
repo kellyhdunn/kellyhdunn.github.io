@@ -1,2 +1,2 @@
-source 'https://rubygems.org'
-gem "jekyll-theme-kagami"
+source "https://rubygems.org"
+gemspec
