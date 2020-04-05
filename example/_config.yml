@@ -11,7 +11,10 @@ color_scheme: github # this specifies color scheme for syntax highlighting
 github_username: kellyhdunn
 #twitter_username: kamikat_bot
 instagram_username: kelly_d
+yaml
 
 # Build settings
 markdown: kramdown
-
+exclude:
+    -Gemfile
+    -Gemfile.lock
