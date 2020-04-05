@@ -1,0 +1,34 @@
+- name: this site
+  descr: "Sure, going a bit meta, but what's the harm?"
+  image: pong.png
+  github: https://github.com/katiehdunn/katiehdunn.github.io
+
+- name: Describing Education
+  descr: "The Power of Vocabulary > #ignores line breaks
+When we walk into a learning space, we all have the ability to intuit some first-approximation of whether the space is doing a good job in the first ten minutes. But what observations does this intuition come from? And is it accurate? On some level, it feels like you just know it when you see it/some nebulous thing about the energy in the room. Still, what concrete observables lead to these conclusions? More generally, how does one capture their experiences in different learning spaces for someone who was not present? How do we talk about different educational spaces with one another? 
+When students studying architecture or art history learn about their respective subjects, they are introduced to a wide variety of new vocabulary. In learning these words, they learn not just what to call different forms and curves, different uses of color, and different shading techniques, but additionally gain some kind of meta-information about the importance of this distinction even existing in the first place. That is, in developing vocabulary, they learn about different spectrums and axes along which different phenomena can be classified. 
+Vocabulary influences thought. In general, people need more structured ways to talk and think about the learning of skills. Having a common library of labels and terms allows for clearer and more fruitful discussion, further advancing the field. Many scientific and mathematical advances have served a similar linguistic function by giving us words and concepts (i.e. models) to describe what had previously seemed too amorphous for systematic thought.
+The Space of Possibilities
+This project hopes to characterize the space of possibilities in education. One way to do this is to look at the set of parameters that can vary from one space to the next. For instance, when customizing a meal at a fast casual eatery, one has choices
+the base, the protein, the presence or absence of any given topping -- and all possible combinations of the settings of the parameters gives the space of possible orders.
+This project is less rigorous parameters need not simply be “on” or “off” - instead of being restricted to a binary/dichotomy, the setting of some parameters may involve selecting from multiple options; some may be described qualitatively.
+Of course, a qualitative description of observables is the most objective/faithful to reality, without imposing any interpretations on the raw data. Still, even imperfectly accurate/precise bins are useful. Right now, without a common vocabulary, we find it hard to talk about educational experiences because we don’t even know whether we’re talking about the same ideas. And even on an individual level, people seem to often complain that they don’t know what details to pay attention to when observing.
+An Impossible Task
+Undertaking such a venture assumes there exists a good way to look at such a complicated system in the first place. Perhaps, you say, there is no good way to measure learning, a complicated process whose timescales are extremely variable. 
+But just because there is no best way to do it, no objective best, does not mean there is no “better” or “worse”. The goal is a reasonable first approximation, and it’s always worth breaking it down a little more, even if that breaking down will always be imperfect and incomplete. And if there’s a possibility that this first approximation exists, then it’s worth searching for."
+
+- name: HSSP Rationality curriculum
+  descr: "a work-in-progress"
+  site: sites.google.com/view/hssp-rationality
+
+- name: APES Curriculum
+  descr: 
+  site: sites.google.com/view/kdunn
+
+- name: Recommended Media Visualization
+  descr: "a work-in-progress"
+
+
+- name: Teammate mystery hunt puzzles?
+  descr: "a work-in-progress"
+
